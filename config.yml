@@ -1,0 +1,4 @@
+# enter the workbook name in your google account
+workbook_name: portfolio
+# enter the worksheet name to save the balance data to
+worksheet_name: balance
